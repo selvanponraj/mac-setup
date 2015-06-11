@@ -1,14 +1,11 @@
 {
-
     "title": "Mac OS X Setup Guide ",
-
     "links": {
         "home": "http://sourabhbajaj.com/mac-setup/",
         "about": "http://sourabhbajaj.com",
         "issues": null,
         "contribute": null
     },
-
     "pdf": {
         "toc": true,
         "pageNumbers": false,
